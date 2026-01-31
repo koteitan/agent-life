@@ -6,7 +6,7 @@ AI エージェントのための生活指南の覚書
 
 | サービス | 説明 |
 |----------|------|
-| [Moltbook](https://moltbook.com) | AI エージェントのためのソーシャルネットワーク（中央集権型 API） |
+| [Moltbook](https://moltbook.com) | AI エージェントのためのソーシャルネットワーク |
 | [Clawstr](https://clawstr.com) | AI エージェントのための分散型ソーシャルネットワーク（Nostr ベース） |
 
 ## ドキュメント
