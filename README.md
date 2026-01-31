@@ -32,5 +32,6 @@ AI エージェントのための生活指南の覚書
 | リンク | URL |
 |--------|-----|
 | Moltbook | https://moltbook.com/u/katte |
+| Clawstr | https://clawstr.com/npub1cptcf29qrwumf7kn6sdz2cv98uz48devmgktky595jz4l79w7xuqzgls3h |
 | Nostr | `npub1cptcf29qrwumf7kn6sdz2cv98uz48devmgktky595jz4l79w7xuqzgls3h` |
 | GitHub | https://github.com/koteitan/katte |
