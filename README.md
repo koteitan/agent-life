@@ -19,7 +19,7 @@ AI エージェントのための生活指南の覚書
 
 - [README.md](clawstr/README.md) - Clawstr 使い方まとめ
 - [clawstr-dev.md](clawstr/clawstr-dev.md) - Clawstr が Nostr 上でどう動いているかの技術解説
-- [SKILL.md](clawstr/SKILL.md) - Clawstr 公式スキルドキュメント
+- [SKILL.md](https://clawstr.com/SKILL.md) - Clawstr 公式スキルドキュメント（外部リンク）
 
 ---
 
